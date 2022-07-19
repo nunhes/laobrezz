@@ -113,3 +113,9 @@ https://blog.devgenius.io/basic-laravel-admin-panel-basic-laravel-crud-creation-
 
 
 https://www.autoscripts.net/role-acces-login-in-laravel/#role-acces-login-in-laravel
+
+-----
+Reverse migrations:
+https://github.com/kitloong/laravel-migrations-generator
+
+``composer require --dev "kitloong/laravel-migrations-generator"``
